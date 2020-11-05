@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Slurpie Mid Term Project.cpp
+c:\users\pina\onedrive\visual studio 2015\projects\slurpie mid term project\slurpie mid term project\slurpie mid term project.cpp(83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pina\onedrive\visual studio 2015\projects\slurpie mid term project\slurpie mid term project\slurpie mid term project.cpp(84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pina\onedrive\visual studio 2015\projects\slurpie mid term project\slurpie mid term project\slurpie mid term project.cpp(93): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pina\onedrive\visual studio 2015\projects\slurpie mid term project\slurpie mid term project\slurpie mid term project.cpp(131): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Slurpie Mid Term Project.vcxproj -> C:\Users\Pina\OneDrive\Visual Studio 2015\Projects\Slurpie Mid Term Project\Debug\Slurpie Mid Term Project.exe
+  Slurpie Mid Term Project.vcxproj -> C:\Users\Pina\OneDrive\Visual Studio 2015\Projects\Slurpie Mid Term Project\Debug\Slurpie Mid Term Project.pdb (Full PDB)
